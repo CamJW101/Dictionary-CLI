@@ -5,11 +5,11 @@
  Because it's so simple, requirements are minimal. All that is needed is Python 3 and the Requests library.
  
  ```
-~$ git clone https://github.com/CamJW101/Dictionary-CLI
-~$ cd Dictionary-CLI
-~$ sudo apt-get update -y && sudo apt-get upgrade -y
-~$ sudo apt-get install python3-pip python3
-~$ pip3 install -r requirements.txt
+git clone https://github.com/CamJW101/Dictionary-CLI
+cd Dictionary-CLI
+sudo apt-get update -y && sudo apt-get upgrade -y
+sudo apt-get install python3-pip python3
+pip3 install -r requirements.txt
 ```
 
 ## Usage
