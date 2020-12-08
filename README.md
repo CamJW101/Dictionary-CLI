@@ -23,5 +23,6 @@ pip3 install -r requirements.txt
  ```
 mkdir -p ~/bin
 cp dictionary.py ~/bin/dictionary
+chmod +x ~/bin/dictionary
 export PATH=$PATH":$HOME/bin"
  ```
